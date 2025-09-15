@@ -2,12 +2,6 @@
 
 A sleek, full-stack personal journaling application built with the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. This application provides a secure, private space for users to create, view, edit, and delete their daily entries.
 
-## Final Preview
-
-![MiniJournal Screenshot](./path/to/your/screenshot.png)
-*(Replace this with a screenshot of your finished application)*
-
----
 
 ## Features
 
@@ -54,7 +48,7 @@ A sleek, full-stack personal journaling application built with the MERN stack (M
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/minijournal.git](https://github.com/YourUsername/minijournal.git)
+    git clone [https://github.com/alienxviking/minijournal.git](https://github.com/alienxviking/minijournal.git)
     cd minijournal
     ```
 
