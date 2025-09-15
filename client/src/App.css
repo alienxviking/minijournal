@@ -1,0 +1,25 @@
+/* src/App.css */
+body { font-family: sans-serif; background-color: #f4f4f9; color: #333; }
+.app-container { max-width: 700px; margin: 2rem auto; padding: 1rem; }
+.entry-form { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 2rem; }
+.entry-form textarea, .entry-form input { width: 95%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 4px; }
+.entry-form button { padding: 10px 15px; background-color: #5c67f2; color: white; border: none; border-radius: 4px; cursor: pointer; }
+.entries-list { margin-top: 2rem; }
+.entry-card { background: white; padding: 15px; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); position: relative; }
+.delete-btn { position: absolute; top: 10px; right: 10px; background: #ff4d4d; color: white; border: none; border-radius: 4px; cursor: pointer; padding: 5px 8px; }
+.edit-btn { background-color: #f0ad4e; position: absolute; top: 10px; right: 80px; }
+.edit-textarea { width: 95%; min-height: 80px; margin-bottom: 10px; }
+.auth-link {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.auth-link a {
+  color: #5c67f2;
+  text-decoration: none;
+}
+
+.auth-link a:hover {
+  text-decoration: underline;
+}
